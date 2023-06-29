@@ -15,3 +15,4 @@ Case 1 - You can submit all the above (A,B,C,D) in your smartinternz project wor
 (or) 
 Case 2 - You can submit all the above (A,B,C,D) in your personal git repo (Public repo) 
  
+project video link : https://drive.google.com/file/d/17pnqKbftcIT0GCVQq2VWn7-3UoQ1Imld/view
